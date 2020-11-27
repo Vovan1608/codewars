@@ -205,7 +205,7 @@ function nine() {
     }
   } else {
     return 9;
-  }
+  }  
 }
 console.log( four( plus( nine() ) ) );
 
